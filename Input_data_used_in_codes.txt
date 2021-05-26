@@ -1,0 +1,12 @@
+
+Link for Image data used in multilabel image(size-240x240x3) classification codes:-
+	https://drive.google.com/file/d/11Jm9NUQHRnz8lX6DaYrPpoESjWK7y6AF/view?usp=sharing
+
+Link for Labels extracted from the description used in multilabel image classification(final_labels):-
+	https://drive.google.com/file/d/1eyW2Myrs5C-Ovo2a0u41TCVtqMq07kRg/view?usp=sharing
+
+Link for Image data used in Image description file(size- 224x224x3):-
+	https://drive.google.com/file/d/1GlxvU1-i61GZBRPLmofsFjEHcTr5iY1u/view?usp=sharing
+
+Link for Description used in Image description file(labels_desc):
+	https://drive.google.com/file/d/15_-7BA3bqE_a4fua8c8FPfG5iMTrqz3a/view?usp=sharing
