@@ -13,7 +13,7 @@ Also in this project a model is made and trained on a given data so as to produc
 textual description when fed an image data. Pretrained ImageNet and VGG16 models
 as well custom made models are used to achieve the desired results.
 
-<img src="inventory/img.png" width="400" height="700">
+<img src="inventory/img.png" width="800" height="600">
 
 
 
